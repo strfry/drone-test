@@ -3,4 +3,5 @@ pipeline:
     image: golang
     commands:
       - echo "Hello World!"
+      - echo New Build
 
