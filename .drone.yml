@@ -4,4 +4,4 @@ pipeline:
     commands:
       - echo "Hello World!"
       - echo New Build
-
+      - echo Done
